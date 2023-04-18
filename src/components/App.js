@@ -10,7 +10,7 @@ const [font, setFont] = useState(false);
   
   return (
     <div id="main">
-      <p className={} >Newton School</p>
+      <p className="redColor" >Newton School</p>
       <button id='button' onClick={handleClick}>Change Style</button>
     </div>
   )
